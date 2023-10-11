@@ -1,0 +1,81 @@
+body,.header{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    background-color: #242933;
+    color: #a6adba;
+}
+.header{
+    text-align: center;
+    background-color: #ff6f61;
+    color: white;
+    padding: 2%;
+    font-size: 1.25rem;
+}
+.images{
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+p,.textstep{
+    font-size: 1.2em;
+    margin: 0;
+    padding: 2%;
+}
+#First{
+    padding: 2%;
+    font-size: 1.25rem;
+    background-color: #3d4150;
+    border: 0;
+}
+#optional{
+    text-decoration: underline;
+}
+.Step{
+    border: 2px solid #ff6f61;
+    border-radius: 10px;
+    margin: 5% 10%;
+    padding:3%;
+}
+.circle {
+    text-align:left;
+    border-radius: 50%;
+    background-color: #ff6f61;
+    color: white;
+    padding: 1%;
+}
+.textstep{
+    padding: 10px;
+}
+ol {
+    font-size: 1.1em;
+    color: #05c26a;
+}
+.links{
+    text-decoration: none;
+    color: #05c26a;
+}
+.links:hover, #tip{
+    text-decoration: underline;
+    color: yellow;
+}
+#tip{
+    font-size: 1.5em;
+    color: red;
+}
+.comments{
+    font-size: 0.9em;
+    color: white;
+}
+#footer, hr{
+    margin: 0;
+    text-align: center;
+    background-color: #515164;
+    color:#fff;
+}
+h3,h2,h1{
+    padding: 2%;
+}

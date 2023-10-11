@@ -1,0 +1,10 @@
+body {
+    background-color: #fafafa;
+}
+.footer{
+    background: rgb(0,255,166);
+background: linear-gradient(90deg, rgba(0,255,166,1) 19%, rgba(0,116,255,1) 86%);
+}
+a:hover {
+  text-decoration: underline !important;
+}
